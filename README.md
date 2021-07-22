@@ -1,4 +1,4 @@
-# Network UPS Tools (NUT) Prometheus Exporter
+# Network UPS Tools (NUT) Prometheus Exporter for ARM
 
 A [Prometheus](https://prometheus.io) exporter for the Network UPS Tools server. This exporter utilizes the [go.nut](https://github.com/robbiet480/go.nut) project as a network client of the NUT platform. The exporter is written in a way to permit an administrator to scrape one or many UPS devices visible to a NUT client as well as one or all NUT variables. A single instance of this exporter can scrape one or many NUT servers as well.
 
